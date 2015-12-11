@@ -1,0 +1,9 @@
+*.gitignore
+*.log
+*.metadata
+*.lock
+*.mylyn
+*.plugins
+*.DS_Store
+*.class
+

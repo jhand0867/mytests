@@ -11,5 +11,10 @@ public class Tools {
 	{
 		System.out.println("Bye Workd");
 	}
+	
+	public void DisplayWhatev()
+	{
+		System.out.println("Whatever!!! ");
+	}
 
 }
