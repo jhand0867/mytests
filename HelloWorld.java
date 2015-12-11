@@ -16,6 +16,8 @@ public class HelloWorld {
 		
 		mc.DisplayBye();
 		
+		mc.DisplayWhatev();
+		
 	}
 
 }
