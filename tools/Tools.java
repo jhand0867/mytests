@@ -7,6 +7,11 @@ public class Tools {
 		System.out.println("Hello World");
 	}
 	
+	public void DisplayHello( String name)
+	{
+		System.out.println("Hello " + name);
+	}
+
 	public void DisplayBye()
 	{
 		System.out.println("Bye Workd");

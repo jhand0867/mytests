@@ -9,10 +9,13 @@ public class HelloWorld {
 		// need to implemnt the input....
 		//
 		
-		System.out.println("Hellow Horld !!");
+		// System.out.println("Hellow Horld !!");
+		
 		Tools mc = new Tools();
 		
 		mc.DisplayHello();
+		
+		mc.DisplayHello("Big Daddy");
 		
 		mc.DisplayBye();
 		
